@@ -1,4 +1,4 @@
-# 3D Gaussian Splatting Manipulation Project
+# 3D Gaussian Splatting Object Manipulation
 
 This repository contains our approach to manipulate and visualize 3D gaussian splats, with scene
 navigation and gaussians labeling functionalities.
